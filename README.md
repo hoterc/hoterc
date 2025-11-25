@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Haider 👋
 
-<!--
-**hoterc/hoterc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Flutter Developer — 26 y/o from Iraq**
 
-Here are some ideas to get you started:
+🚀 I’ve been building mobile apps with **Flutter for 3 years**, focusing on clean UI, smooth user experiences, and scalable architecture.  
+💻 I also have hands-on experience with **backend development**, mainly using **Node.js (Express)** for APIs and real-time features.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently looking for a **growth-focused work environment** where I can:
+- Improve my skills
+- Learn new technologies
+- Contribute to real-world products
+
+---
+
+### 🗣️ Languages
+- **Arabic** (Fluent)
+- **English** (Fluent)
+
+---
+
+### 📌 Goals
+- Build high-quality apps
+- Collaborate with strong teams
+- Keep leveling up as a developer
